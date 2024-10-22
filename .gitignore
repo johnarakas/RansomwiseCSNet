@@ -1,0 +1,15 @@
+data/*.csv
+data/*/*.json
+data/*/*/*.json
+fig/*
+metadata/
+results/
+saved_model/
+__pycache__/
+*/__pycache__/
+
+.vscode/*
+
+# add suffix "_test.py" for local test scripts
+*__test.py
+*__test.ipynb

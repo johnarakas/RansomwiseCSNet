@@ -1,12 +1,29 @@
-appdirs==1.4.4
-Bottleneck==1.3.6
-brotlipy==0.7.0
-certifi==2023.7.22
-cffi==1.15.1
-charset-normalizer==2.0.4
-contourpy==1.0.5
-numpy==1.26.4
-pandas==2.2.1
-matplotlib==3.8.3
-scikit-learn==1.4.1.post1
-tqdm==4.66.2
+certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1734380492396/work/certifi
+contourpy @ file:///home/conda/feedstock_root/build_artifacts/contourpy_1731428322366/work
+cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1733332471406/work
+fonttools @ file:///home/conda/feedstock_root/build_artifacts/fonttools_1733518795522/work
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1733736026804/work
+kiwisolver @ file:///home/conda/feedstock_root/build_artifacts/kiwisolver_1725459213453/work
+matplotlib==3.9.3
+munkres==1.1.4
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1730588026426/work/dist/numpy-2.1.3-cp310-cp310-linux_x86_64.whl#sha256=589b636d43e6856ab6eab6a1a707eef18871d272782f92400ea890827e0bf64b
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1733203243479/work
+pandas @ file:///home/conda/feedstock_root/build_artifacts/pandas_1726878398774/work
+patsy @ file:///home/conda/feedstock_root/build_artifacts/patsy_1733792384640/work
+pillow @ file:///home/conda/feedstock_root/build_artifacts/pillow_1729065631911/work
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1733222594562/work
+PySide6==6.8.0.2
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1733215673016/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1706886791323/work
+scikit-base @ file:///home/conda/feedstock_root/build_artifacts/scikit-base-suite_1728453066973/work
+scikit-learn @ file:///home/conda/feedstock_root/build_artifacts/scikit-learn_1726082665124/work/dist/scikit_learn-1.5.2-cp310-cp310-linux_x86_64.whl#sha256=914b88d7388a0d1dbe92050e4583e162038cff9d8bf6b85d76a4d58ac89079d0
+scipy @ file:///home/conda/feedstock_root/build_artifacts/scipy-split_1733620567294/work/dist/scipy-1.14.1-cp310-cp310-linux_x86_64.whl#sha256=740019bfe16f745f6d6adf96dea7ea3d9fdbae7d7d45ef25a7c4361bebd87257
+seaborn @ file:///home/conda/feedstock_root/build_artifacts/seaborn-split_1733730015268/work
+shiboken6==6.8.0.2
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1733380938961/work
+sktime @ file:///home/conda/feedstock_root/build_artifacts/sktime-suite_1734169321231/work
+statsmodels @ file:///home/conda/feedstock_root/build_artifacts/statsmodels_1727986707121/work
+threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1714400101435/work
+tornado @ file:///home/conda/feedstock_root/build_artifacts/tornado_1732615898999/work
+tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1733235305708/work
+unicodedata2 @ file:///home/conda/feedstock_root/build_artifacts/unicodedata2_1729704533769/work
